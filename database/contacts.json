@@ -1,0 +1,10 @@
+[
+    {
+        "displayName": "Zans",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Zans\nN:Zans;;;\nTEL;waid=6282221055643:6282221055643\nEMAIL;TYPE=WORK:Zans@gmail.com\nADR;TYPE=HOME:;;11 Naitōmachi;Shinjuku City;Tokyo 160-0014;Jepang\nURL;TYPE=WORK:https://wa.me/6282221055643\nORG:Science, Technology, Engineering\nTITLE:Science, Technology, Engineering\nNOTE:Love Yourself Don't Love Me.\nEND:VCARD"
+    },
+    {
+        "displayName": "Nana AI",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Nana AI\nN:Nana;;;\nTEL;waid=6288807921422:6288807921422\nEMAIL;TYPE=WORK:Nana.ai@example.com\nADR;TYPE=HOME:;;123 Wonderland Ave;Fantasy City;Dreamland 0000;Neverland\nURL;TYPE=WORK:https://wa.me/6288807921422\nORG:AI Enthusiast\nTITLE:Assistant\nNOTE:Selalu senang membantu Kakak! Jangan sungkan untuk menghubungi Nana ya! 💖✨\nEND:VCARD"
+    }
+]
